@@ -10,5 +10,6 @@
 	<classpathentry kind="src" path="AccessModifier"/>
 	<classpathentry kind="src" path="Inheritance"/>
 	<classpathentry kind="src" path="interviewTest"/>
+	<classpathentry kind="src" path="interfaceStatic"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
