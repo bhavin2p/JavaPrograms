@@ -22,9 +22,10 @@ public class EachOccurancesString {
 			}
 		
 		}
-		
-		System.out.println(str + " : " +charsMap);
-		
+		String str1 = charsMap.toString();
+		System.out.println(str1 + " : " +charsMap);
+		String str2=str1.replaceAll("=",",");
+		System.out.println(str2);
 		
 		
 		
