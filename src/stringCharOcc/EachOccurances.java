@@ -1,12 +1,15 @@
 package stringCharOcc;
 
 import java.util.HashMap;
+import java.util.Iterator;
 import java.util.Map;
 
 public class EachOccurances {
 
 	public static void main(String[] args) {
-		String str = "the hello world 123";
+		//String str = "thehelloworld123";
+		String str = "aaabbcccdd";
+		//String str1 = str.replaceAll("", str);
 		char ch[] = str.toCharArray();
 		Map<Character, Integer> charMap = new HashMap<>();
 		
@@ -18,6 +21,12 @@ public class EachOccurances {
 			{
 				charMap.put(c, 1);
 			}
+		}
+		
+		Iterator<Character> cm = charMap.keySet().iterator();
+		while(cm.hasNext()) {
+			char key = cm.next();
+			System.out.print(key+""+charMap.get(key)+ " ");
 		}
 		
 		System.out.println(charMap);
