@@ -8,7 +8,7 @@ public class EachOccurancesString {
 	public static void main(String[] args) {
 		
 		
-		String str = "Test One Two";
+		String str = "aaabbbcccddes";
 		Map<Character, Integer> charsMap = new HashMap<>();
 		char charArray[] = str.toCharArray();
 		
