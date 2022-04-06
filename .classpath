@@ -12,5 +12,9 @@
 	<classpathentry kind="src" path="interviewTest"/>
 	<classpathentry kind="src" path="interfaceStatic"/>
 	<classpathentry kind="src" path="freelancing"/>
+	<classpathentry kind="src" path="GlobantTest"/>
+	<classpathentry kind="src" path="morningStar"/>
+	<classpathentry kind="src" path="hexaWare"/>
+	<classpathentry kind="src" path="morganR1"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

@@ -3,7 +3,7 @@ package stringCharOcc;
 public class CharOccurances {
 
 	public static void main(String[] args) {
-		String str = "ABCDE test";
+		String str = "morning star";
 		char []charArray = str.toCharArray();
 		
 		int count = 0;

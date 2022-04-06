@@ -1,0 +1,21 @@
+1. explain static block
+2. can we override main method, explain why 
+3. can we define abstract method as static , explain why
+4. optimize way to find character in string
+5. == and equals difference
+6. string and stringbuilder diff
+7. list, set, and hashmap diff
+8. returntype of method different in overloading allowed?
+9. why java does not support multiple inheritance
+10. call by value and call by reference 
+11. throw and throws diff and explain
+ different types of exception
+ staleelementexception
+ checked and unchecked exception with an example
+ different way to capture background color of dashboard
+ how to iterate map?
+ different ways to send text to textbox other than sendKeys
+ 
+ explain framework
+ 
+ 
